@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tasks-platzi/static/css/main.afb7d33d.css",
+    "main.js": "/react-tasks-platzi/static/js/main.a02077a8.js",
+    "index.html": "/react-tasks-platzi/index.html",
+    "main.afb7d33d.css.map": "/react-tasks-platzi/static/css/main.afb7d33d.css.map",
+    "main.a02077a8.js.map": "/react-tasks-platzi/static/js/main.a02077a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afb7d33d.css",
+    "static/js/main.a02077a8.js"
+  ]
+}
